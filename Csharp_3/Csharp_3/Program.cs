@@ -13,13 +13,14 @@ namespace Csharp_3
             Console.WriteLine("Quantos Quartos tem na sua casa?");
             int quartos = int.Parse(Console.ReadLine());
             Console.WriteLine("Entre com o preço de um produto!");
-            double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            string precoInput = Console.ReadLine().Replace(',', '.'); // Substituir vírgula por ponto
+            double preco = double.Parse(precoInput, CultureInfo.InvariantCulture);
 
 
             //Answer + content
             Console.WriteLine("Seu nome é: " + nome);
             Console.WriteLine("Em sua casa tem: " + quartos + " quartos!");
-            Console.WriteLine("O preço do produto é: " + preco.ToString("F2", CultureInfo.InvariantCulture));
+           Console.WriteLine("O preço do produto é: " + preco.ToString("F2", CultureInfo.GetCultureInfo("pt-BR")));
 
         }
     }
