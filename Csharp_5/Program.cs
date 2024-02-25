@@ -45,8 +45,14 @@ namespace Aula5
             X1 = (-B + Math.Sqrt(Delta)) / (2.0 * A);
             X2 = (-B - Math.Sqrt(Delta)) / (2.0 * A);  
 
-            
+
             Console.ReadLine();
+
+
+            //Sqrt = Raiz quadrada
+            //Pow = Potência
+            // Abs = Valor Absoluto
+            
         } 
     }
 }
