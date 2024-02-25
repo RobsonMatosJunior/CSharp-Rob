@@ -23,10 +23,8 @@ namespace Aula_20
 
             System.Console.WriteLine("Área = " + Area.ToString("F2", CultureInfo.InvariantCulture));
             System.Console.WriteLine("Preço = " + Preco.ToString("F2", CultureInfo.InvariantCulture));
+            
             Console.ReadLine();
-
-
-          
        }
 
     }
