@@ -1,0 +1,15 @@
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1015\obj\Debug\net8.0\Problema1015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1015\obj\Debug\net8.0\Problema1015.AssemblyInfoInputs.cache
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1015\obj\Debug\net8.0\Problema1015.AssemblyInfo.cs
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1015\obj\Debug\net8.0\Problema1015.csproj.CoreCompileInputs.cache
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1015\obj\Debug\net8.0\Problema1015.sourcelink.json
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1015\bin\Debug\net8.0\Problema1015.exe
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1015\bin\Debug\net8.0\Problema1015.deps.json
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1015\bin\Debug\net8.0\Problema1015.runtimeconfig.json
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1015\bin\Debug\net8.0\Problema1015.dll
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1015\bin\Debug\net8.0\Problema1015.pdb
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1015\obj\Debug\net8.0\Problema1015.dll
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1015\obj\Debug\net8.0\refint\Problema1015.dll
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1015\obj\Debug\net8.0\Problema1015.pdb
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1015\obj\Debug\net8.0\Problema1015.genruntimeconfig.cache
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1015\obj\Debug\net8.0\ref\Problema1015.dll
