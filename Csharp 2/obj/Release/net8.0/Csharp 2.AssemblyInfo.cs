@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Csharp_3")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Csharp 2")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86848193cee6aa0d923d9228a3df6370f6dd79d2")]
-[assembly: System.Reflection.AssemblyProductAttribute("Csharp_3")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Csharp_3")]
+[assembly: System.Reflection.AssemblyProductAttribute("Csharp 2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Csharp 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
