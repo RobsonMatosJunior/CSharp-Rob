@@ -1,0 +1,15 @@
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1013\bin\Debug\net8.0\Problema1013.exe
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1013\bin\Debug\net8.0\Problema1013.deps.json
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1013\bin\Debug\net8.0\Problema1013.runtimeconfig.json
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1013\bin\Debug\net8.0\Problema1013.dll
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1013\bin\Debug\net8.0\Problema1013.pdb
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1013\obj\Debug\net8.0\Problema1013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1013\obj\Debug\net8.0\Problema1013.AssemblyInfoInputs.cache
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1013\obj\Debug\net8.0\Problema1013.AssemblyInfo.cs
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1013\obj\Debug\net8.0\Problema1013.csproj.CoreCompileInputs.cache
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1013\obj\Debug\net8.0\Problema1013.sourcelink.json
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1013\obj\Debug\net8.0\Problema1013.dll
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1013\obj\Debug\net8.0\refint\Problema1013.dll
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1013\obj\Debug\net8.0\Problema1013.pdb
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1013\obj\Debug\net8.0\Problema1013.genruntimeconfig.cache
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Problema\Problema1013\obj\Debug\net8.0\ref\Problema1013.dll
