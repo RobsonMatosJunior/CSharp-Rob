@@ -6,11 +6,15 @@ namespace Csharp_9
     {
         static void Main(string[] args)
         {
-            double Raio, Area, Pi;
-            Raio = double.Parse(Console.ReadLine());
-            Pi = 3.14159;
-            Area = Pi * Math.Pow(Raio, 2);
-            Console.WriteLine("A= " + Area.ToString("F4"));
+        
+            string nomeVendedor = Console.ReadLine();
+            double salarioFixo = double.Parse(Console.ReadLine());
+            double totalVendas = double.Parse(Console.ReadLine());
+
+            double comissao = totalVendas * 0.15;
+            double totalReceber = salarioFixo + comissao;
+
+            Console.WriteLine("TOTAL = R$ " + totalReceber.ToString("F2"));
             Console.ReadLine();
 
         }
