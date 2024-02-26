@@ -8,7 +8,6 @@
  
             Console.WriteLine(valor);
 
-
             foreach (int nota in notas)
             {
                 int quantidadeNotas = valor / nota;
