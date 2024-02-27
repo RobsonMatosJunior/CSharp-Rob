@@ -1,0 +1,15 @@
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Problema\Problema1019\obj\Debug\net8.0\Problema1019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Problema\Problema1019\obj\Debug\net8.0\Problema1019.AssemblyInfoInputs.cache
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Problema\Problema1019\obj\Debug\net8.0\Problema1019.AssemblyInfo.cs
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Problema\Problema1019\obj\Debug\net8.0\Problema1019.csproj.CoreCompileInputs.cache
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Problema\Problema1019\obj\Debug\net8.0\Problema1019.sourcelink.json
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Problema\Problema1019\bin\Debug\net8.0\Problema1019.exe
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Problema\Problema1019\bin\Debug\net8.0\Problema1019.deps.json
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Problema\Problema1019\bin\Debug\net8.0\Problema1019.runtimeconfig.json
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Problema\Problema1019\bin\Debug\net8.0\Problema1019.dll
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Problema\Problema1019\bin\Debug\net8.0\Problema1019.pdb
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Problema\Problema1019\obj\Debug\net8.0\Problema1019.dll
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Problema\Problema1019\obj\Debug\net8.0\refint\Problema1019.dll
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Problema\Problema1019\obj\Debug\net8.0\Problema1019.pdb
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Problema\Problema1019\obj\Debug\net8.0\Problema1019.genruntimeconfig.cache
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Problema\Problema1019\obj\Debug\net8.0\ref\Problema1019.dll
