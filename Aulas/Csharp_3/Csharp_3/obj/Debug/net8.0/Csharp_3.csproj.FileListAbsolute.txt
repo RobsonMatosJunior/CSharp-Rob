@@ -1,0 +1,15 @@
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_3\Csharp_3\bin\Debug\net8.0\Csharp_3.exe
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_3\Csharp_3\bin\Debug\net8.0\Csharp_3.dll
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_3\Csharp_3\obj\Debug\net8.0\Csharp_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_3\Csharp_3\obj\Debug\net8.0\Csharp_3.AssemblyInfoInputs.cache
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_3\Csharp_3\obj\Debug\net8.0\Csharp_3.AssemblyInfo.cs
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_3\Csharp_3\obj\Debug\net8.0\Csharp_3.csproj.CoreCompileInputs.cache
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_3\Csharp_3\obj\Debug\net8.0\Csharp_3.sourcelink.json
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_3\Csharp_3\obj\Debug\net8.0\Csharp_3.dll
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_3\Csharp_3\obj\Debug\net8.0\refint\Csharp_3.dll
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_3\Csharp_3\obj\Debug\net8.0\Csharp_3.pdb
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_3\Csharp_3\bin\Debug\net8.0\Csharp_3.deps.json
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_3\Csharp_3\bin\Debug\net8.0\Csharp_3.runtimeconfig.json
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_3\Csharp_3\bin\Debug\net8.0\Csharp_3.pdb
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_3\Csharp_3\obj\Debug\net8.0\Csharp_3.genruntimeconfig.cache
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_3\Csharp_3\obj\Debug\net8.0\ref\Csharp_3.dll

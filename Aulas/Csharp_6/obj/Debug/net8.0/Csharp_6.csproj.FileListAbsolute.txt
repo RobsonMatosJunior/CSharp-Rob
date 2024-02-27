@@ -1,0 +1,15 @@
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_6\obj\Debug\net8.0\Csharp_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_6\obj\Debug\net8.0\Csharp_6.AssemblyInfoInputs.cache
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_6\obj\Debug\net8.0\Csharp_6.AssemblyInfo.cs
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_6\obj\Debug\net8.0\Csharp_6.csproj.CoreCompileInputs.cache
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_6\obj\Debug\net8.0\Csharp_6.sourcelink.json
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_6\bin\Debug\net8.0\Csharp_6.exe
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_6\bin\Debug\net8.0\Csharp_6.deps.json
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_6\bin\Debug\net8.0\Csharp_6.runtimeconfig.json
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_6\bin\Debug\net8.0\Csharp_6.dll
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_6\bin\Debug\net8.0\Csharp_6.pdb
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_6\obj\Debug\net8.0\Csharp_6.dll
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_6\obj\Debug\net8.0\refint\Csharp_6.dll
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_6\obj\Debug\net8.0\Csharp_6.pdb
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_6\obj\Debug\net8.0\Csharp_6.genruntimeconfig.cache
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Csharp_6\obj\Debug\net8.0\ref\Csharp_6.dll
