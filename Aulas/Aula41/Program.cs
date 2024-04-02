@@ -72,6 +72,8 @@ class Program
     }
 }
 */
+
+/*
 class Program
 {
     static void Main(string [] args)
@@ -86,5 +88,24 @@ class Program
             x = x + 1;
         }
         Console.WriteLine("Fim");
+    }
+}
+*/
+
+class Program
+{
+    static void Main(string [] args)
+    {
+        int x, y;
+        x = 2;
+        y = 10;
+
+        while (x < y)
+        {
+            Console.WriteLine(x + "-" + y);
+            x = x *2;
+            y = y + 1;
+        }
+        
     }
 }
