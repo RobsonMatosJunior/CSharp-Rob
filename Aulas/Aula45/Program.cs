@@ -1,7 +1,4 @@
-﻿
-
-// Problemas While
-
+﻿// Problemas While
 // Problema = 1114
 /*
 using System;
@@ -26,6 +23,7 @@ class Program
 
 // PROBLEMA = 1115
 
+/*
 using System;
 class Program
 {
@@ -43,12 +41,12 @@ class Program
                 Console.WriteLine("primeiro");
                 
             }
-            else if (x < 0 && y > 0)
+            else if (x < 0  &&  y > 0)
             {
                 Console.WriteLine("segundo");
                 
             }
-            else if ( x< 0 && y > 0)
+            else if ( x < 0 &&  y < 0)
             {
                 Console.WriteLine("terceiro");
             }
@@ -62,5 +60,24 @@ class Program
             y = int.Parse(valores[1]);
         }
         Console.ReadLine();
+    }
+}
+*/
+
+using System;
+class Program
+{
+    static void Main (string [] args)
+    {
+        int x, y, media;
+        string [] valores = Console.ReadLine().Split(' ');
+        x = int.Parse(valores[0]);
+        y = int.Parse(valores[1]);
+        media = (x + y) / 2;
+
+        while ((x <= 0 || x >= 10) && (y > 0 || y >= 10))
+        {
+            if ()
+        }
     }
 }
