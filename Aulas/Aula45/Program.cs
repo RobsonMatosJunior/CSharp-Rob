@@ -69,15 +69,18 @@ class Program
 {
     static void Main (string [] args)
     {
-        int x, y, media;
-        string [] valores = Console.ReadLine().Split(' ');
-        x = int.Parse(valores[0]);
-        y = int.Parse(valores[1]);
-        media = (x + y) / 2;
+        double x, y;
+        int notasValidas = 0;
+        double somaNotas = 0;
 
-        while ((x <= 0 || x >= 10) && (y > 0 || y >= 10))
+        while (notasValidas < 2)
         {
-            if ()
+            double nota = double.Parse(Console.ReadLine());
+            if (nota >= 0 && nota <= 10)
+            {
+                notasValidas = notasValidas + 1;
+            }
+            
         }
     }
 }
