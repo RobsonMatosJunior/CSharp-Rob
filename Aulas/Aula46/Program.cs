@@ -7,7 +7,7 @@ class program
         int n = int.Parse(Console.ReadLine());
         int soma = 0;
         
-        for (int i = 0; i < n; i++)
+        for (int i = 0; i <= n; i++)
         {
         Console.WriteLine("Informe o número:");
         int num = int.Parse(Console.ReadLine());
